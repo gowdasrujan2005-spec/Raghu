@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>S Raghavendra| Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>S Raghavendra</h1>
+    <p>USN: 1VA23CD082</p>
+    <p>Computer Science (Data Science) Student | Aspiring Software Developer</p>
+</header>
+
+<section class="about">
+    <h2>About Me</h2>
+    <p>
+        I am passionate about web development and machine learning.
+        I enjoy building projects and solving real-world problems.
+    </p>
+</section>
+
+<section class="education">
+    <h2>Education</h2>
+
+    <div class="edu-card">
+        <h3>B.E. in Computer Science (Data Science)</h3>
+        <p>Sai Vidya Institution of Technology</p>
+    </div>
+
+    <div class="edu-card">
+        <h3>PUC</h3>
+        <p>Sri Vidyaniketan PU College</p>
+    </div>
+
+    <div class="edu-card">
+        <h3>SSLC</h3>
+        <p>Bharathi Shishu Vidhyalaya High School</p>
+    </div>
+</section>
+
+<section class="skills">
+    <h2>Technical Skills</h2>
+
+    <div class="skill-box">
+        <span>Java</span>
+        <div class="bar"><div class="fill" style="width: 85%;"></div></div>
+    </div>
+
+    <div class="skill-box">
+        <span>Python</span>
+        <div class="bar"><div class="fill" style="width: 80%;"></div></div>
+    </div>
+</section>
+
+<section class="projects">
+    <h2>Projects</h2>
+    <div class="project-card">
+        <h3>Student Community Market Place App</h3>
+        <p>
+            Student Marketplace is a campus-focused web application that allows students to buy, sell, and exchange
+            products within their college community. The platform enables users to post product listings, browse
+            available items, and connect with sellers in a simple and user-friendly interface.
+        </p>
+    </div>
+</section>
+
+<section class="contact">
+    <h2>Contact</h2>
+    <p>Email: s7raghu7@gmail.com</p>
+    <p>Phone: 9108200197</p>
+</section>
+
+<footer>
+    <p>© 2026 S Raghavendra</p>
+</footer>
+
+</body>
+</html>
